@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, Full Stack Web and Android Development, AI and ML
 - 🌱 I’m currently learning Android Dev, Python with Data Science & MERN stack
 - 💞️ I’m looking to collaborate on impactful tech projects
-- 📫 Reach me at: vandanasingh@email.com
+- 📫 Reach me at: vandanasingh5910@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I write poems in Hindi, Urdu, and English ✨
 
